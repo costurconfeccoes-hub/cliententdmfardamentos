@@ -1,6 +1,6 @@
-# Costur Confecções - Sistema Veste Certo
+# Costur Confecções - Sistema TDM Fardamentos
 
-Sistema de gerenciamento para a marca Veste Certo da Costur Confecções.
+Sistema de gerenciamento para a marca TDM Fardamentos da Costur Confecções.
 
 ## Funcionalidades
 - Acompanhamento de produção
